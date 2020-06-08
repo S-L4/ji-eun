@@ -3,6 +3,6 @@ def solution(s):
 
 
 
-# 다른 사람 풀이
-def solution(s):
-    return ''.join(sorted(s, reverse=True))
+# # 다른 사람 풀이
+# def solution(s):
+#     return ''.join(sorted(s, reverse=True))
